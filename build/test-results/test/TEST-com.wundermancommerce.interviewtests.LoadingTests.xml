@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wundermancommerce.interviewtests.LoadingTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-09-17T15:25:21" hostname="DESKTOP-GM1E8K5" time="0.589">
+  <properties/>
+  <testcase name="noRelationshipsForPersonByName" classname="com.wundermancommerce.interviewtests.LoadingTests" time="0.546"/>
+  <testcase name="noFamilyMembers" classname="com.wundermancommerce.interviewtests.LoadingTests" time="0.009"/>
+  <testcase name="noRelationshipsLoaded" classname="com.wundermancommerce.interviewtests.LoadingTests" time="0.008"/>
+  <testcase name="noPeopleLoaded" classname="com.wundermancommerce.interviewtests.LoadingTests" time="0.007"/>
+  <testcase name="noFamilyMembersByName" classname="com.wundermancommerce.interviewtests.LoadingTests" time="0.007"/>
+  <testcase name="noRelationshipsForPerson" classname="com.wundermancommerce.interviewtests.LoadingTests" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
